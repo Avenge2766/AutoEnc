@@ -1,2 +1,2 @@
 # AutoEnc
-Simple autoencoder using keras and mnis
+Simple autoencoder using keras and mnist
